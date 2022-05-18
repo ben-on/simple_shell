@@ -68,6 +68,6 @@ Where you will get a prompt in the shape of a dollar sign so you can start typin
 
 
 ## Contributors :sunglasses::muscle:
-* [**Eyob Zebene**](https://github.com/Eyob14)
-* [**Elias Mengesha**](https://github.com/e1iasm)
+* [**Tesfaye Adugna**](https://github.com/tesfayeadugna)
+* [**Beniyam Alemu**](https://github.com/ben-on)
 
